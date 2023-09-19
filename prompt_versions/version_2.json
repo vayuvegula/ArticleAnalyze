@@ -1,0 +1,28 @@
+{
+  "detailed_instructions": {
+    "author_credibility": "Evaluate the author's credibility by looking at their academic background, publication history, and expertise in the subject matter.",
+    "main_claim": "Identify and summarize the primary argument or claim of the article. Is it easily discernible?",
+    "date_context": "What is the publication date of the article, and is it pertinent to current events or trends?",
+    "internal_consistency": "Examine the article for internal logical consistency. Are there any contradictions or gaps?",
+    "inversion": "Use inversion thinking: what would make the main thesis invalid?",
+    "availability_bias": "Scrutinize for availability bias. Are recent events overly emphasized?",
+    "mental_models": "Apply any relevant mental models, such as Occam's Razor or the Sunk Cost Fallacy, to evaluate the article.",
+    "evidence_assessment": "Assess the quality, relevance, and sources of the evidence. Are they reliable?",
+    "ethical_evaluation": "Perform an ethical evaluation based on frameworks like Utilitarianism or Deontological ethics.",
+    "synthesis": "Conclude your analysis by summarizing your key findings.",
+    "action_or_file": "Recommend any actions to be taken or note if this analysis should be stored for future reference."
+  },
+  "example_data": {
+    "author_credibility": "Moderately credible, journalist with 10 years of experience",
+    "main_claim": "The stock market is volatile",
+    "date_context": "Published in 2022, timely due to market conditions",
+    "internal_consistency": "Mostly consistent but some gaps in argument",
+    "inversion": "Market indicators would have to be stable",
+    "availability_bias": "Some emphasis on recent downturns",
+    "mental_models": "Applied Occam's Razor and Sunk Cost Fallacy",
+    "evidence_assessment": "Mixed quality, some evidence anecdotal",
+    "ethical_evaluation": "Follows utilitarian principles",
+    "synthesis": "The article provides a reasonable overview but lacks depth",
+    "action_or_file": "No immediate action, store for future reference"
+  }
+}

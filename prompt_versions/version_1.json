@@ -1,0 +1,28 @@
+{
+  "detailed_instructions": {
+    "author_credibility": "Assess the credibility of the author by examining their qualifications, reputation, and any potential biases they may have.",
+    "main_claim": "Summarize the main claim or thesis of the article. Is it clearly stated or implied?",
+    "date_context": "Note the date and context of the article. Is it current? Is the timing relevant to the content?",
+    "internal_consistency": "Check for internal consistency in the article's arguments. Are there contradictions?",
+    "inversion": "Think inversely: what would have to be true for the main thesis to be incorrect?",
+    "availability_bias": "Are there signs of availability bias either in your judgment or in the author's perspective?",
+    "mental_models": "Apply relevant mental models to assess the article. For example, consider supply and demand dynamics if it's a market-related article.",
+    "evidence_assessment": "Evaluate the quality and relevance of the evidence provided. Is it anecdotal or statistically significant?",
+    "ethical_evaluation": "Assess the article from an ethical standpoint. Does it adhere to universal principles?",
+    "synthesis": "Synthesize your analysis to form a coherent conclusion.",
+    "action_or_file": "Based on your analysis, should any action be taken or is this information to be filed away for future reference?"
+  },
+  "example_data": {
+    "author_credibility": "Highly credible, PhD in Economics",
+    "main_claim": "Economic downturn is imminent",
+    "date_context": "Published on June 2021, relevant to current events",
+    "internal_consistency": "Consistent arguments",
+    "inversion": "Economic indicators would have to show positive growth",
+    "availability_bias": "No signs of availability bias",
+    "mental_models": "Used Pareto Principle and Supply and Demand",
+    "evidence_assessment": "Statistically significant data from reputable sources",
+    "ethical_evaluation": "Adheres to universal principles of transparency and integrity",
+    "synthesis": "The article makes a compelling case for an economic downturn",
+    "action_or_file": "Action needed: Reconsider investment strategies"
+  }
+}
