@@ -27,15 +27,3 @@ This project aims to provide a comprehensive analysis of articles using various 
 1. Initialize the historical database: `python initialize_database.py`
 2. Run the main analyzer: `python main.py`
 3. Provide feedback on analysis quality when prompted.
-
-##### Contributing
-
-Open to contributions. Please send a pull request.
-
-##### License
-
-MIT License
-
----
-
-Feel free to add or modify any sections based on the specific needs of your project.
